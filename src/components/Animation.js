@@ -35,7 +35,7 @@ export const Animation = ()=> {
             <div className = "grass">
                 
                 <img className = "house"  src = { house } width = "0px"></img>
-                <a className = "chicken" href="https://www.animatedimages.org/cat-chickens-532.htm"><img  ref = { chicken.ref } src="https://www.animatedimages.org/data/media/532/animated-chicken-image-0079.gif" border="0" alt="animated-chicken-image-0079" /></a>
+                <a className = "chicken" href="https://www.animatedimages.org/cat-chickens-532.htm"><img  ref = { chicken.ref } src="https://www.animatedimages.org/data/media/532/animated-chicken-image-0079.gif" border="0" alt="" /></a>
                 
             </div>
             <a href="https://www.animatedimages.org/cat-butterflies-291.htm"><img className = "butterfly" src="https://www.animatedimages.org/data/media/291/animated-butterfly-image-0082.gif" border="0" alt="animated-butterfly-image-0082" /></a>
